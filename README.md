@@ -1,8 +1,8 @@
-# NinerTech Event-Sales Calculator
+# Event-Sales Calculator
 
 A Python program that tells you whether an event made money. You enter how many items were sold, the selling price, the cost per item, and any extra event expenses, and it prints a financial summary with revenue, total costs, profit, and profit margin.
 
-Built for ITSC 1212 (Project 1) at UNC Charlotte.
+Built as a project for an introductory programming course at UNC Charlotte.
 
 ## How to run it
 
