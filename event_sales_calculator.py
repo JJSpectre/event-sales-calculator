@@ -1,4 +1,6 @@
-# JJLabs
+# JJSpectre
+# NinerTech Event-Sales Calculator
+# ITSC 1212 – Project 1, UNC Charlotte (Fall 2026)
 
 items_sold = int(input("Enter the number of items sold: "))
 selling_price = float(input("Enter the selling price per item: $"))
